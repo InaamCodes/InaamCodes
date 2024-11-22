@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 - 👨‍💻 **Who am I?**  
-   A dedicated developer exploring the worlds of Java, MERN, and Spring Boot to create innovative projects.  
+   A dedicated developer exploring the worlds of Java and MERN to create innovative projects.  
 - 🎯 **Goals**:  
    - Build scalable and secure web applications.  
    - Focus on mobile app development to create dynamic, user-friendly apps.  
