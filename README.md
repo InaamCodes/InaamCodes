@@ -14,7 +14,7 @@
 - 🎯 **Goals**:  
    - Build scalable and secure web applications.  
    - Dive into robotics to make my Iron Man suit dream come true.  
-- 📚 **Fun fact**: Coding feels like magic—crafting spells with keyboards, powered by coffee instead of wands! ☕✨
+- 📚 **Fun fact**: _“I treat every bug as a learning opportunity (but still wish they didn’t appear so often)!”_ 🐞
 
 ---
 
@@ -45,23 +45,17 @@
 
 ---
 
-## 🚀 Recent Activity
-<!--START_SECTION:activity-->
-1. 💻 Pushed a new project: "Help Desk Management System"
-2. 🔍 Opened an issue in [repository-name](https://github.com/repository-name/issues/1)
-3. 🌟 Starred [awesome-repo](https://github.com/awesome-repo)
-<!--END_SECTION:activity-->
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/inaam-ahmed-563676282" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:inaammta@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/itz._.inxxm/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
 
