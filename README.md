@@ -1,20 +1,27 @@
-# 🌍 Welcome to My Coding Journey! 🚀
+# 👋 Welcome to My GitHub Profile!
 
 ![Header](https://github.com/InaamCodes/InaamCodes/raw/main/DALL%C2%B7E%202024-11-23%2002.00.09%20-%20A%20header%20image%20with%20the%20text%20'InaamCodes'%20written%20on%20it.%20The%20background%20should%20be%20professional%2C%20modern%2C%20and%20technology-themed%2C%20incorporating%20elements%20.webp)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=1ABC9C&center=true&width=600&lines=Hi+there!+I'm+Inaam👨‍💻;Passionate+Web+Developer+💻;Java+and+MERN+Stack+Enthusiast;Let's+Build+Something+Amazing!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&color=1ABC9C&center=true&width=450&lines=Hi+there!+I'm+Inaam👨‍💻;Passionate+Web+Developer+💻;Java+and+MERN+Stack+Learner;Let's+build+something+great+together!" />
 </p>
 
 ---
 
 ## 🌟 About Me
 - 👨‍💻 **Who am I?**  
-   A dedicated developer exploring the worlds of Java and MERN to create innovative projects.  
+   A dedicated developer exploring the worlds of Java, MERN, and Spring Boot to create innovative projects.  
 - 🎯 **Goals**:  
    - Build scalable and secure web applications.  
    - Focus on mobile app development to create dynamic, user-friendly apps.  
 - 📚 **Fun fact**: _“I treat every bug as a learning opportunity (but still wish they didn’t appear so often)!”_ 🐞
+
+---
+
+## 💬 Quote of the Day
+
+> "Programming isn't about what you know; it's about what you can figure out."  
+> — Chris Pine
 
 ---
 
