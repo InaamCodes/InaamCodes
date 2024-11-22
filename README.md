@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋  
 
-![Header](https://via.placeholder.com/1200x400.png?text=InaamCodes+GitHub+Profile)   <!-- Replace this URL with your own image -->
+![Header](https://github.com/InaamCodes/InaamCodes/raw/main/C:/Users/logte/Desktop/git.png)   <!-- Replace this URL with your own image -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&color=1ABC9C&center=true&width=450&lines=Hi+there!+I'm+Inaam👨‍💻;Passionate+Web+Developer+💻;Java+and+MERN+Stack+Learner;Let's+build+something+great+together!" />
