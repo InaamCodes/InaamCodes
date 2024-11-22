@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @InaamCodes  
+- 👀 I’m interested in web development, Java programming.  
+- 🌱 I’m currently learning MERN stack.  
+- 💞️ I’m looking to collaborate on beginner-friendly open-source projects and innovative web applications.  
+- 📫 How to reach me: You can email me at inaammta@gmail.com or connect with me on LinkedIn.   
+- ⚡ Fun fact: I believe coding is like magic... just with more coffee and fewer wands! ☕✨
