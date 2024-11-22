@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile! 👋  
 
-![Header](C:/Users/logte/Desktop/git.png)   <!-- Replace this URL with your own image -->
+![Header](https://github.com/InaamCodes/InaamCodes/raw/main/DALL%C2%B7E%202024-11-23%2002.00.09%20-%20A%20header%20image%20with%20the%20text%20'InaamCodes'%20written%20on%20it.%20The%20background%20should%20be%20professional%2C%20modern%2C%20and%20technology-themed%2C%20incorporating%20elements%20.webp)
+   <!-- Replace this URL with your own image -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&color=1ABC9C&center=true&width=450&lines=Hi+there!+I'm+Inaam👨‍💻;Passionate+Web+Developer+💻;Java+and+MERN+Stack+Learner;Let's+build+something+great+together!" />
