@@ -80,5 +80,5 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day">
+  <i>"Success is the sum of small efforts, repeated day in and day out."</i> – Robert Collier
 </p>
