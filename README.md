@@ -1,9 +1,7 @@
 # Welcome to My GitHub Profile! 👋  
 
-![Header](https://via.placeholder.com/1200x400.png?text=Welcome+to+InaamCodes+GitHub+Profile)
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&color=1ABC9C&center=true&width=450&lines=Hi+there!+I'm+Inaam👨‍💻;Passionate+Web+Developer+💻;Java+and+MERN+Stack+Learner;Let's+build+something+great+together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&color=1ABC9C&center=true&width=450&lines=Welcome+to+InaamCodes+GitHub+Profile!;Coding+and+Learning+Every+Day;Join+me+on+my+development+journey!" />
 </p>
 
 ---
@@ -86,4 +84,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day">
 </p>
-
