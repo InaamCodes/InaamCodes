@@ -86,6 +86,8 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day">
-</p>
+## 💬 Quote of the Day
+
+> "Programming isn't about what you know; it's about what you can figure out."  
+> — Chris Pine
+
